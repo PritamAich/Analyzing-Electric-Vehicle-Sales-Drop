@@ -1,6 +1,6 @@
 # Analyzing Electric Vehicle Sales Drop
 
-This is a micro-experience working on a real world use-case that is obtained from [bluetick.ai](https://app.bluetick.ai/micro-experiences). It can be accesed from here: https://app.bluetick.ai/workstation/104
+This is a micro-experience working on a real world use-case that is obtained from [bluetick.ai](https://app.bluetick.ai/micro-experiences) created with experts from CarDekho Group. It can be accesed from here: https://app.bluetick.ai/workstation/104
 
 ## Project Overview
 
